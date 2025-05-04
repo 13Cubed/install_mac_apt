@@ -1,4 +1,4 @@
-# mac_apt_Install_macOS.sh
+# install_mac_apt
 
 ## Overview
 
